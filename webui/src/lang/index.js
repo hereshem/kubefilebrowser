@@ -4,7 +4,6 @@ import VueI18n from 'vue-i18n'
 Vue.use(VueI18n)
 
 import zh from './zh_cn.js'
-import en from './en.js'
 const messages = {
     'zh-cn': zh,
     'en': zh,

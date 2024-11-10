@@ -1,6 +1,8 @@
 module github.com/xmapst/kubefilebrowser
 
-go 1.20
+go 1.22.0
+
+toolchain go1.22.7
 
 require (
 	github.com/avast/retry-go/v4 v4.6.0

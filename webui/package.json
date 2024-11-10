@@ -1,7 +1,7 @@
 {
-  "name": "KubernetesFileBrowser",
+  "name": "kubernetes-file-browser",
   "version": "1.0.0",
-  "description": "KubernetesFileBrowser",
+  "description": "Kubernetes File Browser",
   "main": "main.js",
   "private": true,
   "author": "xmapst",
